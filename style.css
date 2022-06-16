@@ -1,0 +1,214 @@
+body{
+background: #FDE9EE;
+margin: 0px 1px 0px 0px;
+}
+#tudo{
+	background: #FDE9EE;
+	margin: 0px 1px 0px 0px;
+	top: 100%;
+	width: 100%;
+	height: 100%;
+}
+/*--------------------------------------PRINCIPAIS----------------------------------------*/
+h1{
+	font-size: 50px;
+	font-family: times new roman,times,serif;
+	text-align: center;
+}
+
+h3{
+	padding: 5px;
+	font-weight: normal;
+}
+
+h4{
+	margin: 0px;
+	color: black;
+	font-size: 20px;
+}
+hr {
+	border: 0.5px dashed gray;
+	width: 230px;
+}
+p{
+	margin: 0px;
+	font-size: 12px;
+}
+
+a:hover{
+	background: gainsboro;
+}
+
+a:active{
+	background: black;
+}
+.span1{
+	color: 	#3E4240;
+  text-align: center;
+}
+.logotipo{
+	position: fixed;
+	margin-top: 10px;
+	margin-left: 15px;
+	border: 4px solid 	#42B7CB;
+  border-top-left-radius: 155px;
+  border-top-right-radius: 155px;
+  border-bottom-left-radius: 155px;
+  border-bottom-right-radius: 155px;
+}
+/*--------------------------------------INDEX----------------------------------------*/
+
+.corpo {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	margin: 40px 40px 30px 40px;
+}
+
+.imagem{
+	position: relative;
+	top: 20px;
+  border-top-left-radius: 80px;
+  border-top-right-radius: 80px;
+  border-bottom-left-radius: 80px;
+  border-bottom-right-radius: 80px;
+  text-align: center;
+}
+.margem {
+  height: 100%;
+	margin: 0px 0px 0px 10px;
+	padding: 10px 0px 0px 0px;
+	text-align: center
+
+
+}
+
+.subtitulo{
+	margin: 0px 0px 0px 15px;
+  text-align: center;
+  font-size: 15px;
+}
+
+/*--------------------------------------QUEM É ELA----------------------------------------*/
+
+.texto2{
+	margin: 40px 40px 30px 40px;
+	color: #000000;
+	font-size: 20px;
+  text-align: center;
+}
+
+.imagem2{
+	position: relative;
+	left: 15px;
+  text-align: center;
+  border-top-left-radius: 80px;
+  border-top-right-radius: 80px;
+  border-bottom-left-radius: 80px;
+  border-bottom-right-radius: 80px;
+}
+.corpo2{
+	position: relative;
+	top: 10px;
+	left: 400px;
+	width: 600px;
+	height: 520px;
+	background: #efefff;
+  text-align: center;
+}
+
+/*----------------------------OBRIGADO FORMULARIO-------------------------*/
+
+.obrigado {
+width: 50%;
+height: 50%;
+margin-left: auto;
+margin-right: auto;
+}
+
+/*--------------------------------------MENU/TOPICOS----------------------------------------*/
+#cabeçalho {
+	height: 170px;
+	width: 100%;
+	background : 	#FDA1B0;
+	border: 1px solid #98b2d3;
+}
+.cabeçalho_fundo {
+
+	height: 180px;
+	width: 100%;
+
+}
+.link{
+	font-weight: bold;
+	color: white;
+	margin: 4%;
+	position: relative;
+	left: 450px;
+	padding: 20px;
+	text-decoration: none;
+}
+#menu{
+  background-color: #1495D9;
+  height: 45px;
+	width: 100%;
+}
+.inicio {
+	font-weight: bold;
+	color: white;
+	margin: 4%;
+	position: relative;
+  left: 35%;
+	padding: 10px;
+  top: 30%;
+	text-decoration: none;
+}
+.quem_e_ela {
+	font-weight: bold;
+	color: white;
+	margin: 4%;
+	position: relative;
+  left: 40%;
+	padding: 10px;
+  top: 30%;
+	text-decoration: none;
+}
+
+.rodape {
+	top: 99%;
+  text-align: left;
+  font-size: 10px;
+}
+.titulo {
+color: 	#530097;
+text-align: center;
+font-size: 60px;
+}
+.canal {
+	color: rgb(255, 6, 243);
+	position: relative;
+  left: auto;
+  right: auto;
+	padding: 10px;
+	text-decoration: none;
+}
+.obrigado{
+	color: #c531ff;
+	font-size: 30px;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
